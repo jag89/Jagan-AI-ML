@@ -52,4 +52,5 @@ Repository for key AI-ML projects, concepts.
  14) How to build simple app in python?
  15) Airflow, Kubernetes cluster, MLFlow, Docker concept
   
-
+Useful links 
+https://github.com/rbhatia46/Data-Science-Interview-Resources 
