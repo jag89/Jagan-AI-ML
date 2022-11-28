@@ -50,5 +50,6 @@ Repository for key AI-ML projects, concepts.
  12) PYCARET evaluation 
  13) Build ensemble model creation pipeline
  14) How to build simple app in python?
- 15) Machine Vision basics
+ 15) Airflow, Kubernetes cluster, MLFlow, Docker concept
+  
 
