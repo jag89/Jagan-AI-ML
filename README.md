@@ -43,17 +43,9 @@ Repository for key AI-ML projects, concepts.
     - How to show variable importance? 
 
  7) Bagging vs Boosting
- 8) Market mix models(RFM analysis) 
- 9) Market Basket analysis
- 10) How to deal with class imbalance problems?
- 11) NEURAL NETWORKS
- 12) PYCARET evaluation 
- 13) Build ensemble model creation pipeline
- 14) How to build simple app in python?
- 15) Airflow, Kubernetes cluster, MLFlow, Docker concept
- 16) Dimensionality reduction
- 17) Survival Analysis
- 18) Customer lifetime value
+
+ 8) NEURAL NETWORKS
+ 9) LLMs
   
 Useful links 
 https://github.com/rbhatia46/Data-Science-Interview-Resources 
